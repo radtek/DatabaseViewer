@@ -1,0 +1,75 @@
+﻿https://stackoverflow.com/questions/10043352/positioning-balloon-tooltips-over-treenodes
+
+The ToolTip control is not necessary in order to display tooltips for the TreeNodes. 
+
+The TreeView has a property ShowNodeToolTips that you can set to true and the TreeNodes have a ToolTipText property.
+However, if you want to display the ToolTip as a balloon, things get more complicated. 
+Fortunately the TreeView has a NodeMouseHover event. Together with a Timer, we can make our ToolTip behave as expected.
+
+In our form, we make these declarations and set the timer event handler
+
+
+private const int InitialToolTipDelay = 500, MaxToolTipDisplayTime = 2000;
+
+private ToolTip toolTip = new ToolTip();
+private Timer timer = new Timer();
+private TreeNode toolTipNode;
+
+public frmTreeViewWithToolTip()
+{
+    InitializeComponent();
+    toolTip.IsBalloon = true;
+    timer.Tick += new EventHandler(timer_Tick);
+}
+
+In NodeMouseHover we initiate the process
+private void treeView_NodeMouseHover(object sender,
+                                     TreeNodeMouseHoverEventArgs e)
+{
+    timer.Stop();
+    toolTip.Hide(this);
+
+    toolTipNode = e.Node;
+
+    timer.Interval = InitialToolTipDelay;
+    timer.Start();
+}
+
+The timer will be started twice: once for the initial delay and once for maximum display time of the balloon. Therefore we must handle these two cases in the timer.Tick event handler
+void timer_Tick(object sender, EventArgs e)
+{
+    timer.Stop();
+    if (timer.Interval == InitialToolTipDelay) 
+    { 
+        Point mousePos = treeView.PointToClient(MousePosition);
+
+        // Show the ToolTip if the mouse is still over the same node.
+        if (toolTipNode.Bounds.Contains(mousePos)) 
+        {
+             // Node location in treeView coordinates.
+            Point loc = toolTipNode.Bounds.Location;
+
+             // Node location in form client coordinates.
+            loc.Offset(treeView.Location);
+
+            // Make balloon point to upper right corner of the node.
+            loc.Offset(toolTipNode.Bounds.Width - 7, -12);
+
+            toolTip.Show("Node: " + toolTipNode.Text, this, loc);
+
+            timer.Interval = MaxToolTipDisplayTime;
+            timer.Start();
+        }
+    } else 
+    {
+        // Maximium ToolTip display time exceeded.
+        toolTip.Hide(this);
+    }
+}
+
+Finally, we do not want to display the ToolTip if the mouse leaves the TreeView
+private void treeView_MouseLeave(object sender, EventArgs e)
+{
+    timer.Stop();
+    toolTip.Hide(this);
+}

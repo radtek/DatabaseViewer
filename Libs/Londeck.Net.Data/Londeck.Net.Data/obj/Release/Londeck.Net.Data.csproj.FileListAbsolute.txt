@@ -1,0 +1,5 @@
+E:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Release\Londeck.Net.Data.dll
+E:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Release\Londeck.Net.Data.pdb
+E:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Release\ResolveAssemblyReference.cache
+E:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Release\Londeck.Net.Data.dll
+E:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Release\Londeck.Net.Data.pdb

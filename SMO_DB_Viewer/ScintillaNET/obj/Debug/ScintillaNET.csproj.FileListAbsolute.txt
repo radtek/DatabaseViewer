@@ -1,0 +1,247 @@
+L:\DOTNETVOL\DotNet-2008\ScintillaNET\bin\Debug\SciLexer.dll
+L:\DOTNETVOL\DotNet-2008\ScintillaNET\bin\Debug\ScintillaNet.dll
+L:\DOTNETVOL\DotNet-2008\ScintillaNET\bin\Debug\ScintillaNet.pdb
+L:\DOTNETVOL\DotNet-2008\ScintillaNET\obj\Debug\ResolveAssemblyReference.cache
+L:\DOTNETVOL\DotNet-2008\ScintillaNET\obj\Debug\ScintillaNet.FindReplaceDialog.resources
+L:\DOTNETVOL\DotNet-2008\ScintillaNET\obj\Debug\ScintillaNet.IncrementalSearcher.resources
+L:\DOTNETVOL\DotNet-2008\ScintillaNET\obj\Debug\ScintillaNet.GoToDialog.resources
+L:\DOTNETVOL\DotNet-2008\ScintillaNET\obj\Debug\ScintillaNet.Properties.Resources.resources
+L:\DOTNETVOL\DotNet-2008\ScintillaNET\obj\Debug\ScintillaNet.SnippetChooser.resources
+L:\DOTNETVOL\DotNet-2008\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.Cache
+L:\DOTNETVOL\DotNet-2008\ScintillaNET\obj\Debug\ScintillaNet.dll
+L:\DOTNETVOL\DotNet-2008\ScintillaNET\obj\Debug\ScintillaNet.pdb
+C:\vsProjects\2008\ScintillaNET\bin\Debug\SciLexer.dll
+C:\vsProjects\2008\ScintillaNET\bin\Debug\ScintillaNet.dll
+C:\vsProjects\2008\ScintillaNET\bin\Debug\ScintillaNet.pdb
+C:\vsProjects\2008\ScintillaNET\obj\Debug\ResolveAssemblyReference.cache
+C:\vsProjects\2008\ScintillaNET\obj\Debug\ScintillaNet.FindReplaceDialog.resources
+C:\vsProjects\2008\ScintillaNET\obj\Debug\ScintillaNet.IncrementalSearcher.resources
+C:\vsProjects\2008\ScintillaNET\obj\Debug\ScintillaNet.GoToDialog.resources
+C:\vsProjects\2008\ScintillaNET\obj\Debug\ScintillaNet.Properties.Resources.resources
+C:\vsProjects\2008\ScintillaNET\obj\Debug\ScintillaNet.SnippetChooser.resources
+C:\vsProjects\2008\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.Cache
+C:\vsProjects\2008\ScintillaNET\obj\Debug\ScintillaNet.dll
+C:\vsProjects\2008\ScintillaNET\obj\Debug\ScintillaNet.pdb
+C:\vsProjects\2010\c#\ScintillaNET\bin\Debug\SciLexer.dll
+C:\vsProjects\2010\c#\ScintillaNET\bin\Debug\ScintillaNet.dll
+C:\vsProjects\2010\c#\ScintillaNET\bin\Debug\ScintillaNet.pdb
+C:\vsProjects\2010\c#\ScintillaNET\obj\Debug\ScintillaNet.FindReplaceDialog.resources
+C:\vsProjects\2010\c#\ScintillaNET\obj\Debug\ScintillaNet.IncrementalSearcher.resources
+C:\vsProjects\2010\c#\ScintillaNET\obj\Debug\ScintillaNet.GoToDialog.resources
+C:\vsProjects\2010\c#\ScintillaNET\obj\Debug\ScintillaNet.Properties.Resources.resources
+C:\vsProjects\2010\c#\ScintillaNET\obj\Debug\ScintillaNet.SnippetChooser.resources
+C:\vsProjects\2010\c#\ScintillaNET\obj\Debug\ScintillaNet.dll
+C:\vsProjects\2010\c#\ScintillaNET\obj\Debug\ScintillaNet.pdb
+C:\vsProjects\2010\c#\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.Cache
+C:\vsProjects\2010\c#\WinClient\ReconcileXML2SystemLists\ScintillaNET\bin\Debug\SciLexer.dll
+C:\vsProjects\2010\c#\WinClient\ReconcileXML2SystemLists\ScintillaNET\bin\Debug\ScintillaNet.dll
+C:\vsProjects\2010\c#\WinClient\ReconcileXML2SystemLists\ScintillaNET\bin\Debug\ScintillaNet.pdb
+C:\vsProjects\2010\c#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.FindReplaceDialog.resources
+C:\vsProjects\2010\c#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.IncrementalSearcher.resources
+C:\vsProjects\2010\c#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.GoToDialog.resources
+C:\vsProjects\2010\c#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.Properties.Resources.resources
+C:\vsProjects\2010\c#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.SnippetChooser.resources
+C:\vsProjects\2010\c#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.Cache
+C:\vsProjects\2010\c#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.dll
+C:\vsProjects\2010\c#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.pdb
+G:\vsProjects\2010\C#\WinClient\SqlTools\ReconcileXML2SystemLists\ScintillaNET\bin\Debug\SciLexer.dll
+G:\vsProjects\2010\C#\WinClient\SqlTools\ReconcileXML2SystemLists\ScintillaNET\bin\Debug\ScintillaNet.dll
+G:\vsProjects\2010\C#\WinClient\SqlTools\ReconcileXML2SystemLists\ScintillaNET\bin\Debug\ScintillaNet.pdb
+G:\vsProjects\2010\C#\WinClient\SqlTools\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.FindReplaceDialog.resources
+G:\vsProjects\2010\C#\WinClient\SqlTools\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.IncrementalSearcher.resources
+G:\vsProjects\2010\C#\WinClient\SqlTools\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.GoToDialog.resources
+G:\vsProjects\2010\C#\WinClient\SqlTools\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.Properties.Resources.resources
+G:\vsProjects\2010\C#\WinClient\SqlTools\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.SnippetChooser.resources
+G:\vsProjects\2010\C#\WinClient\SqlTools\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.Cache
+G:\vsProjects\2010\C#\WinClient\SqlTools\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.dll
+G:\vsProjects\2010\C#\WinClient\SqlTools\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.pdb
+H:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\bin\Debug\SciLexer.dll
+H:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\bin\Debug\ScintillaNet.dll
+H:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\bin\Debug\ScintillaNet.pdb
+H:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.FindReplaceDialog.resources
+H:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.IncrementalSearcher.resources
+H:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.GoToDialog.resources
+H:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.Properties.Resources.resources
+H:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.SnippetChooser.resources
+H:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.Cache
+H:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.dll
+H:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.pdb
+G:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\bin\Debug\SciLexer.dll
+G:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\bin\Debug\ScintillaNet.dll
+G:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\bin\Debug\ScintillaNet.pdb
+G:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.FindReplaceDialog.resources
+G:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.IncrementalSearcher.resources
+G:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.GoToDialog.resources
+G:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.Properties.Resources.resources
+G:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.SnippetChooser.resources
+G:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.Cache
+G:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.dll
+G:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.pdb
+I:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\bin\Debug\SciLexer.dll
+I:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\bin\Debug\ScintillaNet.dll
+I:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\bin\Debug\ScintillaNet.pdb
+I:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.FindReplaceDialog.resources
+I:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.IncrementalSearcher.resources
+I:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.GoToDialog.resources
+I:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.Properties.Resources.resources
+I:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.SnippetChooser.resources
+I:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.Cache
+I:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.dll
+I:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNet.pdb
+H:\vsProjects\2010\C#\WinClient\ReconcileXML2SystemLists\ScintillaNET\obj\Debug\ScintillaNET.csprojResolveAssemblyReference.cache
+H:\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\bin\Debug\SciLexer.dll
+H:\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\bin\Debug\ScintillaNet.dll
+H:\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\bin\Debug\ScintillaNet.pdb
+H:\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\obj\Debug\ScintillaNET.csprojResolveAssemblyReference.cache
+H:\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\obj\Debug\ScintillaNet.FindReplaceDialog.resources
+H:\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\obj\Debug\ScintillaNet.IncrementalSearcher.resources
+H:\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\obj\Debug\ScintillaNet.GoToDialog.resources
+H:\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\obj\Debug\ScintillaNet.Properties.Resources.resources
+H:\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\obj\Debug\ScintillaNet.SnippetChooser.resources
+H:\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.Cache
+H:\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\obj\Debug\ScintillaNet.dll
+H:\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\obj\Debug\ScintillaNet.pdb
+F:\H_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\bin\Debug\SciLexer.dll
+F:\H_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\bin\Debug\ScintillaNet.dll
+F:\H_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\bin\Debug\ScintillaNet.pdb
+F:\H_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\obj\Debug\ScintillaNET.csprojResolveAssemblyReference.cache
+F:\H_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\obj\Debug\ScintillaNet.FindReplaceDialog.resources
+F:\H_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\obj\Debug\ScintillaNet.IncrementalSearcher.resources
+F:\H_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\obj\Debug\ScintillaNet.GoToDialog.resources
+F:\H_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\obj\Debug\ScintillaNet.Properties.Resources.resources
+F:\H_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\obj\Debug\ScintillaNet.SnippetChooser.resources
+F:\H_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.Cache
+F:\H_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\obj\Debug\ScintillaNet.dll
+F:\H_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter\ScintillaNET\obj\Debug\ScintillaNet.pdb
+E:\F_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter2015\ScintillaNET\bin\Debug\SciLexer.dll
+E:\F_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter2015\ScintillaNET\bin\Debug\ScintillaNet.dll
+E:\F_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter2015\ScintillaNET\bin\Debug\ScintillaNet.pdb
+E:\F_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNET.csprojResolveAssemblyReference.cache
+E:\F_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.FindReplaceDialog.resources
+E:\F_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.IncrementalSearcher.resources
+E:\F_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.GoToDialog.resources
+E:\F_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.Properties.Resources.resources
+E:\F_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.SnippetChooser.resources
+E:\F_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.Cache
+E:\F_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.dll
+E:\F_Drive\vsProjects\2010\C#\WinClient\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.pdb
+C:\VSProjects\2010\C#\ClipBoardTextFormatter2015\ScintillaNET\bin\Debug\SciLexer.dll
+C:\VSProjects\2010\C#\ClipBoardTextFormatter2015\ScintillaNET\bin\Debug\ScintillaNet.dll
+C:\VSProjects\2010\C#\ClipBoardTextFormatter2015\ScintillaNET\bin\Debug\ScintillaNet.pdb
+C:\VSProjects\2010\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNET.csprojResolveAssemblyReference.cache
+C:\VSProjects\2010\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.FindReplaceDialog.resources
+C:\VSProjects\2010\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.IncrementalSearcher.resources
+C:\VSProjects\2010\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.GoToDialog.resources
+C:\VSProjects\2010\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.Properties.Resources.resources
+C:\VSProjects\2010\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.SnippetChooser.resources
+C:\VSProjects\2010\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.Cache
+C:\VSProjects\2010\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.dll
+C:\VSProjects\2010\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.pdb
+C:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\bin\Debug\SciLexer.dll
+C:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\bin\Debug\ScintillaNet.dll
+C:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\bin\Debug\ScintillaNet.pdb
+C:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.FindReplaceDialog.resources
+C:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.IncrementalSearcher.resources
+C:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.GoToDialog.resources
+C:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.Properties.Resources.resources
+C:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.SnippetChooser.resources
+C:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.Cache
+C:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.dll
+C:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.pdb
+D:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\bin\Debug\SciLexer.dll
+D:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\bin\Debug\ScintillaNet.dll
+D:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\bin\Debug\ScintillaNet.pdb
+D:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNET.csprojResolveAssemblyReference.cache
+D:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.FindReplaceDialog.resources
+D:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.IncrementalSearcher.resources
+D:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.GoToDialog.resources
+D:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.Properties.Resources.resources
+D:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.SnippetChooser.resources
+D:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.Cache
+D:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.dll
+D:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.pdb
+C:\vsProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNET.csprojResolveAssemblyReference.cache
+C:\VSProjects\C#\2015\ClipBoardTextFormatter2015\ScintillaNET\bin\Debug\SciLexer.dll
+C:\VSProjects\C#\2015\ClipBoardTextFormatter2015\ScintillaNET\bin\Debug\ScintillaNet.dll
+C:\VSProjects\C#\2015\ClipBoardTextFormatter2015\ScintillaNET\bin\Debug\ScintillaNet.pdb
+C:\VSProjects\C#\2015\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.FindReplaceDialog.resources
+C:\VSProjects\C#\2015\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.IncrementalSearcher.resources
+C:\VSProjects\C#\2015\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.GoToDialog.resources
+C:\VSProjects\C#\2015\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.Properties.Resources.resources
+C:\VSProjects\C#\2015\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.SnippetChooser.resources
+C:\VSProjects\C#\2015\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.Cache
+C:\VSProjects\C#\2015\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.dll
+C:\VSProjects\C#\2015\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.pdb
+C:\VSProjects\C#\2015\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNET.csprojResolveAssemblyReference.cache
+F:\VSProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\bin\Debug\SciLexer.dll
+F:\VSProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\bin\Debug\ScintillaNet.dll
+F:\VSProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\bin\Debug\ScintillaNet.pdb
+F:\VSProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNET.csprojResolveAssemblyReference.cache
+F:\VSProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.FindReplaceDialog.resources
+F:\VSProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.IncrementalSearcher.resources
+F:\VSProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.GoToDialog.resources
+F:\VSProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.Properties.Resources.resources
+F:\VSProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.SnippetChooser.resources
+F:\VSProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.Cache
+F:\VSProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.dll
+F:\VSProjects\C#\ClipBoardTextFormatter2015\ScintillaNET\obj\Debug\ScintillaNet.pdb
+F:\VSProjects\C#\ClipBoardTextFormatter2017\ScintillaNET\bin\Debug\SciLexer.dll
+F:\VSProjects\C#\ClipBoardTextFormatter2017\ScintillaNET\bin\Debug\ScintillaNet.dll
+F:\VSProjects\C#\ClipBoardTextFormatter2017\ScintillaNET\bin\Debug\ScintillaNet.pdb
+F:\VSProjects\C#\ClipBoardTextFormatter2017\ScintillaNET\obj\Debug\ScintillaNET.csprojResolveAssemblyReference.cache
+F:\VSProjects\C#\ClipBoardTextFormatter2017\ScintillaNET\obj\Debug\ScintillaNet.FindReplaceDialog.resources
+F:\VSProjects\C#\ClipBoardTextFormatter2017\ScintillaNET\obj\Debug\ScintillaNet.IncrementalSearcher.resources
+F:\VSProjects\C#\ClipBoardTextFormatter2017\ScintillaNET\obj\Debug\ScintillaNet.GoToDialog.resources
+F:\VSProjects\C#\ClipBoardTextFormatter2017\ScintillaNET\obj\Debug\ScintillaNet.Properties.Resources.resources
+F:\VSProjects\C#\ClipBoardTextFormatter2017\ScintillaNET\obj\Debug\ScintillaNet.SnippetChooser.resources
+F:\VSProjects\C#\ClipBoardTextFormatter2017\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.Cache
+F:\VSProjects\C#\ClipBoardTextFormatter2017\ScintillaNET\obj\Debug\ScintillaNet.dll
+F:\VSProjects\C#\ClipBoardTextFormatter2017\ScintillaNET\obj\Debug\ScintillaNet.pdb
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\ScintillaNET\bin\Debug\SciLexer.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\ScintillaNET\bin\Debug\ScintillaNet.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\ScintillaNET\bin\Debug\ScintillaNet.pdb
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.FindReplaceDialog.resources
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.IncrementalSearcher.resources
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.GoToDialog.resources
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.Properties.Resources.resources
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.SnippetChooser.resources
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.Cache
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.pdb
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNET.csprojResolveAssemblyReference.cache
+C:\vsProjects\C#\SMO_DB_Viewer\ScintillaNET\bin\Debug\SciLexer.dll
+C:\vsProjects\C#\SMO_DB_Viewer\ScintillaNET\bin\Debug\ScintillaNet.dll
+C:\vsProjects\C#\SMO_DB_Viewer\ScintillaNET\bin\Debug\ScintillaNet.pdb
+C:\vsProjects\C#\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.FindReplaceDialog.resources
+C:\vsProjects\C#\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.IncrementalSearcher.resources
+C:\vsProjects\C#\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.GoToDialog.resources
+C:\vsProjects\C#\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.Properties.Resources.resources
+C:\vsProjects\C#\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.SnippetChooser.resources
+C:\vsProjects\C#\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.cache
+C:\vsProjects\C#\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.dll
+C:\vsProjects\C#\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.pdb
+C:\vsProjects\C#\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNET.csprojResolveAssemblyReference.cache
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\ScintillaNET\bin\Debug\SciLexer.dll
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\ScintillaNET\bin\Debug\ScintillaNet.dll
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\ScintillaNET\bin\Debug\ScintillaNet.pdb
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNET.csprojAssemblyReference.cache
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.FindReplaceDialog.resources
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.IncrementalSearcher.resources
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.GoToDialog.resources
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.Properties.Resources.resources
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.SnippetChooser.resources
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.cache
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.dll
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.pdb
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\ScintillaNET\bin\Debug\SciLexer.dll
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\ScintillaNET\bin\Debug\ScintillaNet.dll
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\ScintillaNET\bin\Debug\ScintillaNet.pdb
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNET.csprojAssemblyReference.cache
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.FindReplaceDialog.resources
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.IncrementalSearcher.resources
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.GoToDialog.resources
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.Properties.Resources.resources
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.SnippetChooser.resources
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.cache
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.dll
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\ScintillaNET\obj\Debug\ScintillaNet.pdb

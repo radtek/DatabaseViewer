@@ -1,0 +1,47 @@
+C:\vsProjects\GAvsProjects\F_Drive\vsProjects\2010\C#\Group Associates\GA_DB_Object_Scripting\GA_SMO\obj\Debug\GA_SMO.csprojResolveAssemblyReference.cache
+C:\vsProjects\GAvsProjects\F_Drive\vsProjects\2010\C#\Group Associates\GA_DB_Object_Scripting\GA_SMO\bin\Debug\GA_SMO.dll.config
+C:\vsProjects\GAvsProjects\F_Drive\vsProjects\2010\C#\Group Associates\GA_DB_Object_Scripting\GA_SMO\bin\Debug\GA_SMO.dll
+C:\vsProjects\GAvsProjects\F_Drive\vsProjects\2010\C#\Group Associates\GA_DB_Object_Scripting\GA_SMO\bin\Debug\GA_SMO.pdb
+C:\vsProjects\GAvsProjects\F_Drive\vsProjects\2010\C#\Group Associates\GA_DB_Object_Scripting\GA_SMO\obj\Debug\GA_SMO.dll
+C:\vsProjects\GAvsProjects\F_Drive\vsProjects\2010\C#\Group Associates\GA_DB_Object_Scripting\GA_SMO\obj\Debug\GA_SMO.pdb
+C:\VSProjects\C#\2015\GA_DB_Object_Scripting\GA_SMO\bin\Debug\GA_SMO.dll.config
+C:\VSProjects\C#\2015\GA_DB_Object_Scripting\GA_SMO\bin\Debug\GA_SMO.dll
+C:\VSProjects\C#\2015\GA_DB_Object_Scripting\GA_SMO\bin\Debug\GA_SMO.pdb
+C:\VSProjects\C#\2015\GA_DB_Object_Scripting\GA_SMO\bin\Debug\Microsoft.ExceptionMessageBox.dll
+C:\VSProjects\C#\2015\GA_DB_Object_Scripting\GA_SMO\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\VSProjects\C#\2015\GA_DB_Object_Scripting\GA_SMO\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\VSProjects\C#\2015\GA_DB_Object_Scripting\GA_SMO\bin\Debug\Microsoft.SqlServer.Rmo.dll
+C:\VSProjects\C#\2015\GA_DB_Object_Scripting\GA_SMO\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\VSProjects\C#\2015\GA_DB_Object_Scripting\GA_SMO\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\VSProjects\C#\2015\GA_DB_Object_Scripting\GA_SMO\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\VSProjects\C#\2015\GA_DB_Object_Scripting\GA_SMO\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\VSProjects\C#\2015\GA_DB_Object_Scripting\GA_SMO\obj\Debug\GA_SMO.csprojResolveAssemblyReference.cache
+C:\VSProjects\C#\2015\GA_DB_Object_Scripting\GA_SMO\obj\Debug\GA_SMO.dll
+C:\VSProjects\C#\2015\GA_DB_Object_Scripting\GA_SMO\obj\Debug\GA_SMO.pdb
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\GA_SMO\bin\Debug\GA_SMO.dll.config
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\GA_SMO\bin\Debug\GA_SMO.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\GA_SMO\bin\Debug\GA_SMO.pdb
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\GA_SMO\bin\Debug\Microsoft.ExceptionMessageBox.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\GA_SMO\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\GA_SMO\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\GA_SMO\bin\Debug\Microsoft.SqlServer.Rmo.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\GA_SMO\bin\Debug\Microsoft.SqlServer.Smo.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\GA_SMO\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\GA_SMO\bin\Debug\Microsoft.SqlServer.Dmf.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\GA_SMO\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\GA_SMO\obj\Debug\GA_SMO.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\GA_SMO\obj\Debug\GA_SMO.pdb
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\GA_SMO\obj\Debug\GA_SMO.csprojResolveAssemblyReference.cache
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\GA_SMO\bin\Debug\Londeck.Net.Data.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\GA_SMO\bin\Debug\Londeck.Net.Data.pdb
+C:\vsProjects\C#\SMO_DB_Viewer\GA_SMO\bin\Debug\GA_SMO.dll.config
+C:\vsProjects\C#\SMO_DB_Viewer\GA_SMO\bin\Debug\GA_SMO.dll
+C:\vsProjects\C#\SMO_DB_Viewer\GA_SMO\bin\Debug\GA_SMO.pdb
+C:\vsProjects\C#\SMO_DB_Viewer\GA_SMO\bin\Debug\Londeck.Net.Data.dll
+C:\vsProjects\C#\SMO_DB_Viewer\GA_SMO\bin\Debug\Microsoft.ExceptionMessageBox.dll
+C:\vsProjects\C#\SMO_DB_Viewer\GA_SMO\bin\Debug\Londeck.Net.Data.pdb
+C:\vsProjects\C#\SMO_DB_Viewer\GA_SMO\obj\Debug\GA_SMO.csprojAssemblyReference.cache
+C:\vsProjects\C#\SMO_DB_Viewer\GA_SMO\obj\Debug\GA_SMO.csproj.CoreCompileInputs.cache
+C:\vsProjects\C#\SMO_DB_Viewer\GA_SMO\obj\Debug\GA_SMO.csproj.CopyComplete
+C:\vsProjects\C#\SMO_DB_Viewer\GA_SMO\obj\Debug\GA_SMO.dll
+C:\vsProjects\C#\SMO_DB_Viewer\GA_SMO\obj\Debug\GA_SMO.pdb

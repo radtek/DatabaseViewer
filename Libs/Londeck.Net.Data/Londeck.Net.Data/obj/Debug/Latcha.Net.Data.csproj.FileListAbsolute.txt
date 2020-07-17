@@ -1,0 +1,5 @@
+C:\Projects\Subversion\Libs\Latcha.Net\Latcha.Net.Data\Latcha.Net.Data\bin\Debug\Latcha.Net.Data.dll
+C:\Projects\Subversion\Libs\Latcha.Net\Latcha.Net.Data\Latcha.Net.Data\bin\Debug\Latcha.Net.Data.pdb
+C:\Projects\Subversion\Libs\Latcha.Net\Latcha.Net.Data\Latcha.Net.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Subversion\Libs\Latcha.Net\Latcha.Net.Data\Latcha.Net.Data\obj\Debug\Latcha.Net.Data.dll
+C:\Projects\Subversion\Libs\Latcha.Net\Latcha.Net.Data\Latcha.Net.Data\obj\Debug\Latcha.Net.Data.pdb

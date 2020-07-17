@@ -1,0 +1,104 @@
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\SMO_DB_Viewer.exe.config
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.csprojResolveAssemblyReference.cache
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.csproj.SMO_DB_Viewer.exe.config
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.Properties.Resources.resources
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.ScriptedObjects.resources
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.csproj.GenerateResource.Cache
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\SciLexer.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\SMO_DB_Viewer.exe
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\SMO_DB_Viewer.pdb
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\GA_SMO.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.ExceptionMessageBox.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.SqlServer.ManagedConnections.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.SqlServer.Smo.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\ScintillaNet.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.SqlServer.Dmf.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\GA_SMO.pdb
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\ScintillaNet.pdb
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.Index_Viewer.resources
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.exe
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.pdb
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Londeck.Net.Data.dll
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Londeck.Net.Data.pdb
+F:\VSProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.SSOB.resources
+F:\vsProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.CalcScheduledTime.resources
+F:\vsProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.SServerLogin.resources
+F:\vsProjects\C#\HTI\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.EventLogBackup.resources
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\SciLexer.dll
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\SMO_DB_Viewer.exe.config
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\SMO_DB_Viewer.exe
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\SMO_DB_Viewer.pdb
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Londeck.Net.Data.dll
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\ScintillaNet.dll
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Londeck.Net.Data.pdb
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\ScintillaNet.pdb
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.CalcScheduledTime.resources
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.EventLogBackup.resources
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.SServerLogin.resources
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.SSOB.resources
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.Index_Viewer.resources
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.Properties.Resources.resources
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.ScriptedObjects.resources
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.csproj.GenerateResource.cache
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.exe
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.pdb
+C:\vsProjects\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.csprojResolveAssemblyReference.cache
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\SciLexer.dll
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\SMO_DB_Viewer.exe.config
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\SMO_DB_Viewer.exe
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\SMO_DB_Viewer.pdb
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Londeck.Net.Data.dll
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\ScintillaNet.dll
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Londeck.Net.Data.pdb
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\ScintillaNet.pdb
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.csprojAssemblyReference.cache
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.CalcScheduledTime.resources
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.EventLogBackup.resources
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.SServerLogin.resources
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.SSOB.resources
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.Index_Viewer.resources
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.Properties.Resources.resources
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.ScriptedObjects.resources
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.csproj.GenerateResource.cache
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.csproj.CopyComplete
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.exe
+V:\BlackBook\Developer Resources\SourceCode\C#\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.pdb
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\SciLexer.dll
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\SMO_DB_Viewer.exe.config
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\SMO_DB_Viewer.exe
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\SMO_DB_Viewer.pdb
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Londeck.Net.Data.dll
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\ScintillaNet.dll
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\Londeck.Net.Data.pdb
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\SMO_DB_Viewer\bin\Debug\ScintillaNet.pdb
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.csprojAssemblyReference.cache
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.CalcScheduledTime.resources
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.EventLogBackup.resources
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.SServerLogin.resources
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.SSOB.resources
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.Index_Viewer.resources
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.Properties.Resources.resources
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.ScriptedObjects.resources
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.csproj.GenerateResource.cache
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.csproj.CopyComplete
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.exe
+\\Blackbox\fs-01\C# - DL\SMO_DB_Viewer\SMO_DB_Viewer\obj\Debug\SMO_DB_Viewer.pdb

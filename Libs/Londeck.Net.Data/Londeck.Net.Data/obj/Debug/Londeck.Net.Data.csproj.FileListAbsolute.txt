@@ -1,0 +1,85 @@
+C:\vsProjects\2008\c#\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\vsProjects\2008\c#\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Latcha.Net.Data.dll
+C:\vsProjects\2008\c#\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Latcha.Net.Data.pdb
+C:\vsProjects\2008\c#\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Latcha.Net.Data.dll
+C:\vsProjects\2008\c#\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Latcha.Net.Data.pdb
+C:\vsProjects\c#\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.dll
+C:\vsProjects\c#\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.pdb
+C:\vsProjects\c#\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.dll
+C:\vsProjects\c#\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.pdb
+C:\vsProjects\2008\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.dll
+C:\vsProjects\2008\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.pdb
+C:\vsProjects\2008\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\vsProjects\2008\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.dll
+C:\vsProjects\2008\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.pdb
+C:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.dll
+C:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.pdb
+C:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.dll
+C:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.pdb
+E:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.dll
+E:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.pdb
+E:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.dll
+E:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.pdb
+G:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.dll
+G:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.pdb
+G:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\ResolveAssemblyReference.cache
+G:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.dll
+G:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.pdb
+I:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.dll
+I:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.pdb
+I:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\ResolveAssemblyReference.cache
+I:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.dll
+I:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.pdb
+J:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.dll
+J:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.pdb
+J:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\ResolveAssemblyReference.cache
+J:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.dll
+J:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.pdb
+E:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.csprojResolveAssemblyReference.cache
+D:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.dll
+D:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.pdb
+D:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.dll
+D:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.pdb
+D:\vsProjects\2010\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.csprojResolveAssemblyReference.cache
+H:\vsProjects\2010\C#\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.dll
+H:\vsProjects\2010\C#\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.pdb
+H:\vsProjects\2010\C#\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.csprojResolveAssemblyReference.cache
+H:\vsProjects\2010\C#\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.dll
+H:\vsProjects\2010\C#\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.pdb
+C:\vsProjects\C#\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.csprojResolveAssemblyReference.cache
+C:\vsProjects\C#\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Microsoft.ExceptionMessageBox.dll
+C:\VSProjects\C#\2015\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.dll
+C:\VSProjects\C#\2015\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.pdb
+C:\VSProjects\C#\2015\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Microsoft.ExceptionMessageBox.dll
+C:\VSProjects\C#\2015\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.csprojResolveAssemblyReference.cache
+C:\VSProjects\C#\2015\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.dll
+C:\VSProjects\C#\2015\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.pdb
+F:\vsProjects\C#\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.dll
+F:\vsProjects\C#\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.pdb
+F:\vsProjects\C#\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Microsoft.ExceptionMessageBox.dll
+F:\vsProjects\C#\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.csprojResolveAssemblyReference.cache
+F:\vsProjects\C#\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.dll
+F:\vsProjects\C#\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.pdb
+C:\vsProjects\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.dll
+C:\vsProjects\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.pdb
+C:\vsProjects\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Microsoft.ExceptionMessageBox.dll
+C:\vsProjects\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.csprojAssemblyReference.cache
+C:\vsProjects\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.csproj.CoreCompileInputs.cache
+C:\vsProjects\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.csproj.CopyComplete
+C:\vsProjects\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.dll
+C:\vsProjects\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.pdb
+V:\BlackBook\Developer Resources\SourceCode\C#\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.dll
+V:\BlackBook\Developer Resources\SourceCode\C#\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.pdb
+V:\BlackBook\Developer Resources\SourceCode\C#\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Microsoft.ExceptionMessageBox.dll
+V:\BlackBook\Developer Resources\SourceCode\C#\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.csprojAssemblyReference.cache
+V:\BlackBook\Developer Resources\SourceCode\C#\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.csproj.CopyComplete
+V:\BlackBook\Developer Resources\SourceCode\C#\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.dll
+V:\BlackBook\Developer Resources\SourceCode\C#\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.pdb
+\\Blackbox\fs-01\C# - DL\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.dll
+\\Blackbox\fs-01\C# - DL\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Londeck.Net.Data.pdb
+\\Blackbox\fs-01\C# - DL\Libs\Londeck.Net.Data\Londeck.Net.Data\bin\Debug\Microsoft.ExceptionMessageBox.dll
+\\Blackbox\fs-01\C# - DL\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.csprojAssemblyReference.cache
+\\Blackbox\fs-01\C# - DL\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.csproj.CopyComplete
+\\Blackbox\fs-01\C# - DL\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.dll
+\\Blackbox\fs-01\C# - DL\Libs\Londeck.Net.Data\Londeck.Net.Data\obj\Debug\Londeck.Net.Data.pdb

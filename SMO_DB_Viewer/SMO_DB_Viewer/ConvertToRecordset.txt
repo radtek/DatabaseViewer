@@ -1,0 +1,143 @@
+﻿/*
+   https://docs.microsoft.com/en-us/dotnet/framework/interop/how-to-create-com-wrappers
+   Wrapping Managed Objects in a Native Application
+
+   To create a COM callable wrapper using Visual Studio
+
+   1. Create a Class Library project for the managed class that you want to run in native code. The class must have a default 
+      constructor.
+
+      •  Class Library Project - Key Item
+      •  The class must have a default constructor. 
+
+   Verify that you have a complete four-part version number for your assembly in the AssemblyInfo file. This number is required for 
+   maintaining versioning in the Windows registry. For more information about version numbers, see Assembly Versioning. 
+
+   2. On the Project menu, click Properties. 
+   3. Click the Compile tab. 
+   4. Select the Register for COM interop check box.
+
+   When you build the project, the assembly is automatically registered for COM interop. If you are building a native application in 
+   Visual Studio 2005, you can use the assembly by clicking Add Reference on the Project menu. 
+
+   To create a COM callable wrapper using .NET Framework tools
+   •  Run the Regasm.exe (Assembly Registration Tool) tool. 
+
+   This tool reads the assembly metadata and adds the necessary entries to the registry. As a result, COM clients can create .NET 
+   Framework classes transparently. You can use the assembly as if it were a native COM class. 
+
+   You can run Regasm.exe on an assembly located in any directory, and then run the Gacutil.exe (Global Assembly Cache Tool) to 
+   move it to the global assembly cache. Moving the assembly does not invalidate location registry entries, because the global 
+   assembly cache is always examined if the assembly is not found elsewhere. 
+ */
+/*
+
+   Introduction
+   https://www.codeproject.com/Articles/10503/Simplest-code-to-convert-an-ADO-NET-DataTable-to-a
+   When working with a legacy ASP application, you might want to convert the core business objects to .NET class 
+   .libraries while still allow the use of existing ASP pages. If those pages are based on manipulating ADODB 
+   Recordsets, it can be a real pain to expose them as an ADO.NET DataTable.
+
+   The existing examples I've seen are oriented around generating a full-fidelity replica of the DataTable which 
+   allows updates. In many situations, this is not needed and the added burden and fragility of these solutions 
+   is not warranted.
+
+   This article is a quick code snippet that shows what I believe is the simplest possible way to handle the 
+   conversion from an ADO.NET DataTable to an ADODB.Recordset, which can then be handled as if it was still 
+   coming from the older middleware component.
+
+   The Code
+
+   There are two functions, designed to be include as static members of some helper class. 
+   The main function is simple:
+
+ */
+
+static public ADODB.Recordset ConvertToRecordset(DataTable inTable)
+{
+    ADODB.Recordset result = new ADODB.Recordset();
+    result.CursorLocation = ADODB.CursorLocationEnum.adUseClient;
+
+    ADODB.Fields resultFields = result.Fields;
+    System.Data.DataColumnCollection inColumns = inTable.Columns;
+
+    foreach (DataColumn inColumn in inColumns)
+    {
+        resultFields.Append(inColumn.ColumnName
+            , TranslateType(inColumn.DataType)
+            , inColumn.MaxLength
+            , inColumn.AllowDBNull ? ADODB.FieldAttributeEnum.adFldIsNullable 
+               : ADODB.FieldAttributeEnum.adFldUnspecified, null);
+    }
+
+    result.Open(System.Reflection.Missing.Value
+            , System.Reflection.Missing.Value
+            , ADODB.CursorTypeEnum.adOpenStatic
+            , ADODB.LockTypeEnum.adLockOptimistic, 0);
+
+    foreach (DataRow dr in inTable.Rows)
+    {
+        result.AddNew(System.Reflection.Missing.Value, 
+                      System.Reflection.Missing.Value);
+
+        for (int columnIndex = 0; columnIndex < inColumns.Count; columnIndex++)
+        {
+            resultFields[columnIndex].Value = dr[columnIndex];
+        }
+    }
+    return result;
+}
+
+// A helper function (which can easily be extended) maps the .NET data types to the correct ADODB field type enumeration.
+
+static ADODB.DataTypeEnum TranslateType(Type columnType)
+{
+    switch (columnType.UnderlyingSystemType.ToString())
+    {
+        case "System.Boolean":
+            return ADODB.DataTypeEnum.adBoolean;
+
+        case "System.Byte":
+            return ADODB.DataTypeEnum.adUnsignedTinyInt;
+
+        case "System.Char":
+            return ADODB.DataTypeEnum.adChar;
+
+        case "System.DateTime":
+            return ADODB.DataTypeEnum.adDate;
+
+        case "System.Decimal":
+            return ADODB.DataTypeEnum.adCurrency;
+
+        case "System.Double":
+            return ADODB.DataTypeEnum.adDouble;
+
+        case "System.Int16":
+            return ADODB.DataTypeEnum.adSmallInt;
+
+        case "System.Int32":
+            return ADODB.DataTypeEnum.adInteger;
+
+        case "System.Int64":
+            return ADODB.DataTypeEnum.adBigInt;
+
+        case "System.SByte":
+            return ADODB.DataTypeEnum.adTinyInt;
+
+        case "System.Single":
+            return ADODB.DataTypeEnum.adSingle;
+
+        case "System.UInt16":
+            return ADODB.DataTypeEnum.adUnsignedSmallInt;
+
+        case "System.UInt32":
+            return ADODB.DataTypeEnum.adUnsignedInt;
+
+        case "System.UInt64":
+            return ADODB.DataTypeEnum.adUnsignedBigInt;
+
+        case "System.String":
+        default:
+            return ADODB.DataTypeEnum.adVarChar;
+    }
+}

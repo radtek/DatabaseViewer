@@ -1,0 +1,106 @@
+﻿Attribute VB_Name = "ADO_to_DAO"
+'------------------------------------------
+'   ADO_to_DAO
+'
+'   You can use this procedure to turn an ADO connection to a database into
+'   a DAO one. *Very* useful for making sure that you do not have to rewrite
+'   all your code when moving to an .ADP in Access 2000; instead, you can just
+'   use this proc to get a DAO Database object that points to the SQL Server
+'   database and use it to keep your existing code working while you can then
+'   move code to ADO later. How do you do this? Just pass in the Access 2000
+'   Application.CurrentProject.Connection object to the proc and use the DAO
+'   database object it returns.
+'
+'       DaoDbFromAdoCon
+'       -con
+'           An ADO connection object, pointing to a Jet database, or a SQL Server
+'           database via the SQL Serevr OLE DB provider (or the Shape Provider).
+'       -[stUser]
+'           Optional, the username to use for the DAO database
+'       -[stPassword]
+'           Optional, the password to use for the DAO database
+'       -[fNewDBEngine]
+'           Optional, a flag that specifies whether to create a brand new DBEngine object
+'           or use the existing one. For SQL Server this can be important if you want to
+'           guarantee that cached logon information is not used for the server in the DAO
+'           connection. For Jet if you do NOT specify this param as True then it cannot
+'           change the .MDW file to be used by the new DAO database to be returned.
+'
+'   Make sure to add references to ADO 2.1 and DAO 3.6 or the code will not compile.
+'
+'   (c) 1999 Trigeminal Software, Inc.  All Rights Reserved
+'------------------------------------------
+Option Compare Text
+Option Explicit
+
+Public Function DaoDbFromAdoCon
+(
+	con As ADODB.Connection, 
+	Optional stUser As String, 
+	Optional stPassword As Variant, 
+	Optional fNewDBEngine As Boolean = False
+) As DAO.Database
+    Dim dbe As DAO.DBEngine
+    Dim db As DAO.Database
+    Dim stConnect As String
+    Dim stDatabase As String
+    
+    If fNewDBEngine Then
+        ' Create a new dbengine
+        Set dbe = New DAO.PrivDBEngine
+    Else
+        Set dbe = DBEngine
+    End If
+    
+    If InStr(con.Provider, "Microsoft.Jet.OLEDB") > 0 Then
+        ' This is a Jet database
+        If fNewDBEngine Then
+            dbe.IniPath = con.Properties("Jet OLEDB:Registry Path")
+            dbe.SystemDB = con.Properties("Jet OLEDB:System database")
+            If Len(stUser) = 0 Then
+                dbe.DefaultUser = con.Properties("User ID")
+            Else
+                dbe.DefaultUser = stUser
+            End If
+            If IsMissing(stPassword) Then
+                dbe.DefaultPassword = con.Properties("Password")
+            Else
+                dbe.DefaultPassword = stPassword
+            End If
+        End If
+        stDatabase = con.Properties("Data Source")
+        If Len(con.Properties("Jet OLEDB:Database Password")) > 0 Then
+            stConnect = stConnect & ";PWD=" & con.Properties("Jet OLEDB:Database Password")
+        End If
+    ElseIf (InStr(con.Provider, "MSDataShape") + InStr(con.Provider, "SQLOLEDB") > 0) Then
+        ' This is a SQL server database, either directly or through the shape engine
+        stDatabase = ""
+        stConnect = "ODBC;"
+        stConnect = stConnect & "driver=" & "SQL Server" & ";"
+        stConnect = stConnect & "server=" & con.Properties("Data Source") & ";"
+        stConnect = stConnect & "database=" & con.Properties("Initial Catalog") & ";"
+        If con.Properties("Integrated Security") = "SSPI" Then
+            stConnect = stConnect & "Trusted_Connection=Yes;"
+        Else
+            If Len(stUser) = 0 Then
+                stConnect = stConnect & "UID=" & con.Properties("User ID") & ";"
+            Else
+                stConnect = stConnect & "UID=" & stUser & ";"
+            End If
+            If IsMissing(stPassword) Then
+                stConnect = stConnect & "PWD=" & con.Properties("Password") & ";"
+            Else
+                stConnect = stConnect & "PWD=" & stPassword & ";"
+            End If
+        End If
+    End If
+    
+    Set db = dbe.OpenDatabase(stDatabase, False, False, stConnect)
+    Set dbe = Nothing
+    
+    Set DaoDbFromAdoCon = db
+    Set db = Nothing
+End Function
+
+
+
